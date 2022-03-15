@@ -21,7 +21,7 @@ function newTodo() {
     }
   else{
       list.innerHTML +=`<li><input type="checkbox" name="name" value="item_name" id="checkBoxes" ><label> ${inputValue.value} </label>
-      <button id="delete" onClick="singleTodo()">Delete</button></li>
+      <button id="delete" onClick="singleRemove()">Delete</button></li>
       <br>`;
       
       
@@ -31,10 +31,6 @@ function newTodo() {
   uncheckedCountSpan.innerHTML =count;
   } 
 }
-
-
-
-
 
 
 // document.getElementsByTagName
@@ -47,12 +43,11 @@ function removeTodo() {
   count=0;
   itemCountSpan.innerHTML = itemCountSpan.innerHTML =count;
   uncheckedCountSpan.innerHTML = uncheckedCountSpan.innerHTML =count;
-  // this.parentNode.style.display = "none"
-  // alert(this.parentNode);
+  
   
 }
 
-function singleTodo(){
+function singleRemove(){
   count--;
   itemCountSpan.innerHTML  =count;
   uncheckedCountSpan.innerHTML  =count;
