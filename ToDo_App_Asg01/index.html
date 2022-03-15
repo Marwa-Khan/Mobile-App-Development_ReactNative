@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>TODO App</title>
+  <link rel="stylesheet" type="text/css" href="./styles.css" />
+</head>
+
+<body>
+  <div class="container center">
+    <h1 class="center title">My TODO App </br> </h1>
+    <label for="">
+      <input type="text"id="input-item" class="input-item" placeholder="Add Your item..... ">
+
+      <button class="button center" onClick="newTodo()">New TODO</button>
+    </label>
+    <div class="flow-right controls">
+      <span>Item count: <span id="item-count">0</span></span>
+      <span>Unchecked count: <span id="unchecked-count">0</span></span>
+    </div>
+    <button class="button center" onClick="removeTodo()">Remove TODO</button>
+    <ul id="todo-list" class="todo-list" style="list-style-type: none;">
+      
+      
+    </ul>
+  </div>
+  <script src="./script.js"></script>
+</body>
+
+</html>
