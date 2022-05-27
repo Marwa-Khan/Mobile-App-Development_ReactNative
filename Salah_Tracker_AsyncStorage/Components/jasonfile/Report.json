@@ -1,0 +1,107 @@
+{
+       
+        "18-04-2022":{ 
+                       
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "19-04-2022":{ 
+                     
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "20-04-2022":{ 
+                     
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+        "21-04-2022": { 
+                      
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+        "22-04-2022":{ 
+                   
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "23-04-2022":{            
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "24-04-2022":{ 
+            "date":"19-04-2022",           
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "25-04-2022":{           
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "26-04-2022": {            
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "27-04-2022": {          
+            "Fajar":"Offered",
+            "Dhuhr":"NotOffered",
+            "Asr":"NotOffered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "28-04-2022": {            
+            "Fajar":"Offered",
+            "Dhuhr":"Offered",
+            "Asr":"Offered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "29-04-2022":{ 
+            "Fajar":"NotOffered",
+            "Dhuhr":"Offered",
+            "Asr":"NotOffered",
+            "Maghrib":"Offered",
+            "Isha":"Offered"
+    },
+    "30-04-2022": { 
+              "Fajar":"NotOffered",
+              "Dhuhr":"NotOffered",
+              "Asr":"Offered",
+              "Maghrib":"Offered",
+              "Isha":"Offered"
+    },
+    "01-05-2022": { 
+                "Fajar":"NotOffered",
+                "Dhuhr":"NotOffered",
+                "Asr":"Offered",
+                "Maghrib":"Offered",
+                "Isha":"Offered"
+            }
+        }
